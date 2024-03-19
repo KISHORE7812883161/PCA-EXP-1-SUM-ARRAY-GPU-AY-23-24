@@ -1,5 +1,5 @@
 # PCA: EXP-1  SUM ARRAY GPU
-### Name: M.KISHORE
+### Name: Kishore M
 ### Reg.No : 212221043003
 ### Exp.No : 01
 ### Date: 
